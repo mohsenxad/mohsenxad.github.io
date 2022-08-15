@@ -15,6 +15,6 @@
 - Docker
 
 ## شخصیت
-* MBTI Test: INFJ *
+**MBTI Test: INFJ**
 
 
