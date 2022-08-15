@@ -24,14 +24,15 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
 
 ## Activity
 
-### CoFounder/CTO @ [Flastio](https://flastio.com/)
+- ### CoFounder/CTO @ [Flastio](https://flastio.com/)
 
-  i use ***Realm*** serveless platform within ***MongoDB*** Atlass databse for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.
+i use ***Realm*** serveless platform within ***MongoDB*** Atlass databse for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.
 
-### CTO @ [FleksWork](https://flekswork.com/)
+- ### CTO @ [FleksWork](https://flekswork.com/)
 
-  i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***amazonAWS*** servers.i publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***amazonAWS*** servers.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
 
-### Founder @ [Fecharge](https://fecharge.ir)
+- ### Founder @ [Fecharge](https://fecharge.ir)
 
-  i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***Cloudflare*** Worker and ***Angular*** for front-end.i publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***Cloudflare*** Worker and ***Angular*** for front-end.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+
