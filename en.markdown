@@ -10,6 +10,7 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
 - nodeJS/TypeScript
 - mongoDB
 - redis
+- Cordova
 
 ### DevOps
 
@@ -29,4 +30,8 @@ i use Realm serveless platform within MongoDB Atlass databse for back-end in Jav
 
 ### CTO @ [FleksWork](https://flekswork.com/)
 
-i use JavaScript/Nodejs with MongoDB databse for back-end and deploy on EC2 servers.
+i use JavaScript/Nodejs with MongoDB databse for back-end and deploy on amazonAWS servers.i pulbish IOS/Android Application on itune and googlePlay with Cordova.
+
+### Founder @ [Fecharge](https://fecharge.ir)
+
+i use JavaScript/Nodejs with MongoDB databse for back-end and deploy on Cloudflare Worker and Angular for front-end.i pulbish IOS/Android Application on itune and googlePlay with Cordova.
