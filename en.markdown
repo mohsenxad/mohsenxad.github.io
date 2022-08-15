@@ -2,25 +2,25 @@
 
 hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with some skills on DevOps.
 
-## :hammer_and_wrench: Skills
+## Skills
 
-### :toolbox: Programming
+- ### Programming
 
-- nodeJS/JavaScript
-- nodeJS/TypeScript
-- mongoDB
-- redis
-- Cordova
+  - nodeJS/JavaScript
+  - nodeJS/TypeScript
+  - mongoDB
+  - redis
+  - Cordova
 
-### :gear: DevOps
+- ### DevOps
 
-- amazonAWS
-- Realm
-- Docker
+  - amazonAWS
+  - Realm
+  - Docker
 
 ## Personality
 
-**MBTI Test: INFJ**
+- **MBTI Test: INFJ**
 
 ## Activity
 
