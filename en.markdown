@@ -2,9 +2,9 @@
 
 hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with some skills on DevOps.
 
-## Skills
+## :hammer_and_wrench: Skills
 
-### Programming
+### :toolbox: Programming
 
 - nodeJS/JavaScript
 - nodeJS/TypeScript
@@ -12,7 +12,7 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
 - redis
 - Cordova
 
-### DevOps
+### :gear: DevOps
 
 - amazonAWS
 - Realm
