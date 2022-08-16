@@ -8,15 +8,20 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
 
   - nodeJS/JavaScript
   - nodeJS/TypeScript
-  - mongoDB
-  - redis
-  - Cordova
+  - Cordova/JavaScript
 
 - ### DevOps
 
   - amazonAWS
+  - redis
   - Realm
   - Docker
+  - nginx
+ 
+ - ### Database
+ 
+  - MongoDB
+  - Postgres
 
 ## Personality
 
@@ -24,15 +29,18 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
 
 ## Activity
 
-- ### CoFounder/CTO @ [Flastio](https://flastio.com/)
+- ### TeamLead @ [Flastio](https://flastio.com/)
 
 i use ***Realm*** serveless platform within ***MongoDB*** Atlass databse for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.
 
-- ### CTO @ [FleksWork](https://flekswork.com/)
+- ### Back-end Developer @ [Hushyaar](https://hushyaar.ir)
+i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end with ***MQTT Broker*** and ***Redis*** and ***Angular*** for front-end that Deployed on VPS.
+
+- ### TeamLead @ [FleksWork](https://flekswork.com/)
 
 i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***amazonAWS*** servers.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
 
-- ### Founder @ [Fecharge](https://fecharge.ir)
+- ### Developer @ [Fecharge](https://fecharge.ir)
 
 i use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***Cloudflare*** Worker and ***Angular*** for front-end.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
 
