@@ -2,6 +2,21 @@
 
 hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with some skills on DevOps.
 
+## Personal Information
+
+- age : 35
+- location: Tehran/Remote
+- MBTI Test: INFJ
+
+## Contact
+
+- email: mohsenxad@gmail.com
+- cellphone number: 09122707748
+- github : [https://github.com/mohsenxad](https://github.com/mohsenxad)
+- linkdin : [https://www.linkedin.com/in/mohsen-xad-5a127a109/](https://www.linkedin.com/in/mohsen-xad-5a127a109/)
+- youtube : [https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg](https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg)
+
+
 ## Skills
 
 - ### Programming
@@ -23,9 +38,7 @@ hi, I'm mohsenXAD and I'm a NodeJS/JavaScript/TypeScript back-end Developer with
   - MongoDB
   - Postgres
 
-## Personality
 
-- **MBTI Test: INFJ**
 
 ## Activity
 
