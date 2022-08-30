@@ -35,6 +35,7 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
   - Docker
   - Nginx
   - MQTT
+  - TelegramBotApi
  
 - ### Database
 
@@ -57,6 +58,10 @@ This project was an ***IOT*** solution with hardware design.
 - ### TeamLead @ [FleksWork](https://flekswork.com/) (2018-2020)
 
 I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***amazonAWS*** servers.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+
+- ### TeamLead @ [XCHANG](https://github.com/txchng/) (2019-2020)
+
+I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***VueJS*** for Customer Panel and ***TelegramBotApi*** for messageing between companies.
 
 - ### Developer @ [Fecharge](https://fecharge.ir) (2018-2020)
 
