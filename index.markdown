@@ -16,7 +16,7 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 - cellphone number: [+989122707748](tel:+989122707748)
 - github : [https://github.com/mohsenxad](https://github.com/mohsenxad)
 - npm : [https://www.npmjs.com/~mohsenxad](https://www.npmjs.com/~mohsenxad)
-- linkdin : [https://www.linkedin.com/in/mohsen-xad-5a127a109/](https://www.linkedin.com/in/mohsen-xad-5a127a109/)
+- linkedin : [https://www.linkedin.com/in/mohsen-xad-5a127a109/](https://www.linkedin.com/in/mohsen-xad-5a127a109/)
 - youtube : [https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg](https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg)
 
 
@@ -51,28 +51,28 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 
 - ### TeamLead @ [Flastio](https://flastio.com/) (2020-2022)
 
-I use ***Realm*** serveless platform within ***MongoDB*** Atlass databse for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.I use ***Amazon S3*** for Object Storage in this project.
+I use ***Realm*** serveless platform within ***MongoDB*** Atlass database for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.I use ***Amazon S3*** for Object Storage in this project.
 
 
 - ### Back-end Developer @ [Hushyaar](https://hushyaar.ir) (2020-2022)
 
-I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end with ***MQTT Broker*** and ***Redis*** and ***Angular*** for front-end that Deployed on VPS.
+I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end with ***MQTT Broker*** and ***Redis*** and ***Angular*** for front-end that Deployed on VPS.
 This project was an ***IOT*** solution with hardware design.
 
 
 - ### TeamLead @ [XCHANG](https://github.com/txchng/) (2019-2020)
 
-I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***VueJS*** for Customer Panel and ***TelegramBotApi*** for messageing between companies.
+I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***VueJS*** for Customer Panel and ***TelegramBotApi*** for messageing between companies.
 
 
 - ### TeamLead @ [FleksWork](https://flekswork.com/) (2018-2020)
 
-I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***amazonAWS*** servers.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy on ***amazonAWS*** servers.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
 
 
 - ### Developer @ [Fecharge](https://fecharge.ir) (2018-2020)
 
-I use ***JavaScript/Nodejs*** with ***MongoDB*** databse for back-end and deploy on ***Cloudflare*** Worker and ***Angular*** for front-end.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
+I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy on ***Cloudflare*** Worker and ***Angular*** for front-end.I publish IOS/Android Application on itune and googlePlay with ***Cordova***.
 
 
 - ### Developer @ [Rayanmehr](https://www.rayanmehr.co.ir/) (2015-2018)
