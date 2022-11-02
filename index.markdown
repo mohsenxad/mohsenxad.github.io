@@ -17,7 +17,7 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 - github : [https://github.com/mohsenxad](https://github.com/mohsenxad)
 - npm : [https://www.npmjs.com/~mohsenxad](https://www.npmjs.com/~mohsenxad)
 - linkedin : [https://www.linkedin.com/in/mohsen-xad-5a127a109/](https://www.linkedin.com/in/mohsen-xad-5a127a109/)
-- youtube : [https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg](https://www.youtube.com/channel/UCAwr0mzAkhkxn1rwX1d0ZFg)
+- youtube : [https://youtube.com/@xad.](https://youtube.com/@xad.)
 
 
 ## Skills
