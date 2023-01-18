@@ -51,7 +51,7 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 
 - ### TeamLead @ [Flastio](https://flastio.com/) (2020-2022)
 
-I use ***Realm*** serveless platform within ***MongoDB*** Atlass database for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.I use ***Amazon S3*** for Object Storage in this project.
+I use ***Realm*** serveless platform within ***MongoDB*** Atlas database for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.I use ***Amazon S3*** for Object Storage in this project.
 
 
 - ### Back-end Developer @ [Hushyaar](https://hushyaar.ir) (2020-2022)
