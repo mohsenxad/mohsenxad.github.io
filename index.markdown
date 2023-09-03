@@ -48,7 +48,7 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 
 ## Activity
 
-- ### Back-end Developer[Lettucesocial](https://lettucesocial.com/)(2022-2023)
+- ### Back-end Developer @ [Lettucesocial](https://lettucesocial.com/) (2022-2023)
 
 I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***Angular*** for Admin Panel and ***Instagram/Meta Api*** for messageing between creators.
 
