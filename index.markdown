@@ -1,12 +1,12 @@
 # MohsenXAD Resume
 
-Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end Developer with some skills on DevOps.
+Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript back-end Developer with some skills on DevOps.
 
 [Download My Resume in PDF](MohsenXADResume.pdf)
 
 ## Personal Information
 
-- age : 35
+- age : 37
 - location: Tehran/Remote
 - MBTI Test: INFJ
 
@@ -25,7 +25,6 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript/TypeScript back-end D
 - ### Programming
 
   - nodeJS/JavaScript
-  - nodeJS/TypeScript
   - Cordova/JavaScript
   - C#
 
