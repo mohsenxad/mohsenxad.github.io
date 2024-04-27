@@ -1,6 +1,8 @@
 # MohsenXAD Resume
 
-Hi, my name is _ _MohsenXAD_ _ and I am a highly skilled Node.js/JavaScript backend developer specializing in creating robust, real-time APIs that seamlessly integrate with various providers such as payment gateways, notification services, and digital goods APIs. My experience and expertise in software development enable me to deliver reliable solutions with confidence and precision.
+Hi, my name is _ _MohsenXAD_ _ and I am a highly skilled Node.js/JavaScript backend developer specializing in creating robust, real-time APIs that seamlessly integrate with various providers such as payment gateways, notification services, and digital goods APIs. 
+
+As a developer, I am also interested in entrepreneurship and innovation.
 
 [Download My Resume in PDF](MohsenXADResume.pdf)
 
