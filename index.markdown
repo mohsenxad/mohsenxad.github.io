@@ -21,27 +21,32 @@ Hi, my name is _ _MohsenXAD_ _ and I am a highly skilled Node.js/JavaScript back
 
 
 ## Skills
+  ### Programming Languages:
+- NodeJS/JavaScript
+- Python
+- C#
 
-- ### Programming
+###  Cloud Services:
+- AmazonAWS
+- AmazonS3
 
-  - nodeJS/JavaScript
-  - Cordova/JavaScript
-  - C#
+### Databases:
+- Redis
+- MongoDB
+- SQL Server
 
-- ### DevOps
+### Application Platforms:
+- Realm
+- Docker
 
-  - AmazonAWS
-  - AmazonS3
-  - Redis
-  - Realm
-  - Docker
-  - Nginx
-  - MQTT
-  - TelegramBotApi
- 
-- ### Database
+### Messaging:
+- MQTT
 
-  - MongoDB
+### APIs:
+- Payment API
+- TelegramBotApi
+- Mailing API
+- Texting API
 
 ## Medal Boards
 
