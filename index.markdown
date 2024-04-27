@@ -43,7 +43,9 @@ Hi, my name is _ _MohsenXAD_ _ and I'm a NodeJS/JavaScript back-end Developer wi
 
   - MongoDB
 
+## Medal Boards
 
+See my [🏆 medal board](medal_board.md) on my skills 
 
 ## Activity
 
