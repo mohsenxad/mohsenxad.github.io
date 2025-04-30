@@ -8,7 +8,7 @@ As a developer, I am also interested in entrepreneurship and innovation.
 
 ## Personal Information
 
-- age : 37
+- age : 38
 - location: Tehran/Remote
 - MBTI Test: INFJ
 
@@ -56,23 +56,23 @@ See my [🏆 medal board](medal_board.md) on my skills
 
 ## Activity
 
-- ### Back-end Developer @ [Lettucesocial](https://lettucesocial.com/) (2022-2023)
+- ### Product Manager & Back-end Developer @ [Lettucesocial](https://lettucesocial.com/) (2022-2023)
 
   I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***Angular*** for Admin Panel and ***Instagram/Meta Api*** for messageing between creators.
 
 
-- ### TeamLead @ [Flastio](https://flastio.com/) (2020-2022)
+- ### Product Manager & TeamLead @ [Flastio](https://flastio.com/) (2020-2022)
 
   I use ***Realm*** serveless platform within ***MongoDB*** Atlas database for back-end in ***JavaScript/Nodejs*** and ***Angular*** for front-end that hosted in ***cloudflare*** pages.I use ***Amazon S3*** for Object Storage in this project.
 
 
-- ### Back-end Developer @ [Hushyaar](https://hushyaar.ir) (2020-2022)
+- ### Product Manager & Back-end Developer @ [Hushyaar](https://hushyaar.ir) (2020-2022)
 
   I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end with ***MQTT Broker*** and ***Redis*** and ***Angular*** for front-end that Deployed on VPS.
   This project was an ***IOT*** solution with hardware design.
 
 
-- ### TeamLead @ [XCHANG](https://github.com/txchng/) (2019-2020)
+- ### Product Manager & TeamLead @ [XCHANG](https://github.com/txchng/) (2019-2020)
 
   I use ***JavaScript/Nodejs*** with ***MongoDB*** database for back-end and deploy ***EC2*** vps with ***Nginx***. we use ***VueJS*** for Customer Panel and ***TelegramBotApi*** for messageing between companies.
 
